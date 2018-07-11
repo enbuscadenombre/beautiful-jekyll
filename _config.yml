@@ -16,7 +16,6 @@ description: Postdoctoral Researcher
 navbar-links:
   About Me: "aboutme"
   Research:
-    - Research Lines: "interest"
     - Publications: "articles"
     - Media: "media"    
   External Sites:
