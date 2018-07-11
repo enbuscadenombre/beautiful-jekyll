@@ -3,21 +3,11 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://enbuscadenombre.github.io"
 baseurl: ""
 
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
-
-# Of course don't forget to change the username and projectname to YOUR username and project
-
 # Name of website
 title: Unai Alvarez-Rodriguez
-
-# Short description of your site
-description: Research
 
 # --- Navigation bar options --- #
 
@@ -30,7 +20,6 @@ navbar-links:
     - GitHub Pages: "https://pages.github.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
-# Remove this parameter if you don't want an image in the navbar
 avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
@@ -38,8 +27,6 @@ avatar: "/img/avatar-icon.png"
 # title-img: /path/to/image
 
 # --- Background colour/image options --- #
-
-# Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#3c0165"
 navbar-text-col: "#FFFFFF"
@@ -51,13 +38,6 @@ footer-col: "#3c0165"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#FEDA22"
 
-# Alternatively, the navbar, footer, and page background can be set to use background images
-# instead of colour
-
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
-
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
@@ -66,8 +46,6 @@ author:
   name: Unai Alvarez-Rodriguez
 
 # Select your active Social Network Links.
-# Uncomment the links you want to show in the footer and add your information to each link.
-# You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   email: "unaialvarezr@gmail.com"
@@ -91,10 +69,6 @@ share-links-active:
   facebook: false
   google: false
   linkedin: false
-
-# How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -236,5 +210,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
