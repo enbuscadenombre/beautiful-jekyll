@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: Unai Alvarez-Rodriguez
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Research
 
 # --- Navigation bar options --- #
 
@@ -71,7 +71,6 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
   email: "unaialvarezr@gmail.com"
 #  reddit: yourname
 #  google-plus: +DeanAttali
