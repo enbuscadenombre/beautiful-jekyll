@@ -16,15 +16,14 @@ navbar-links:
   About Me: "aboutme"
   Research:
     - Research Lines: "interest"
-    - Articles: "articles"
-    - Media: "media"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Publications: "articles"
+    - Media: "media"    
+  External Sites:
+    - BC3: "http://www.markdowntutorial.com/"
+    - QMUL: "https://www.qmul.ac.uk/maths/research/complex-systems-and-networks-group/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
-avatar: "/img/Solomons-knot-ornamental.png"
+# avatar: "/img/Solomons-knot-ornamental.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
