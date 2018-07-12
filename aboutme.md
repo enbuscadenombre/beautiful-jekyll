@@ -12,4 +12,6 @@ September 2011, 22 years. What a great summer that had been. Once I broke free f
 
 April 2012, still 22. _I could be a great Farmer, I love living outside, in contact with Nature, and I don't love almost failing Quantum Field Theory for a second time._ My Facebook friends found this quite funny, while I was only worried about my future.
 
-July 2012, 23. Somehow I ended up applying for a PhD grant, and opposite feelings fought inside me. _I have to try me, at least, this might well be the last chance before leaving the academic path forever. Besides, in the unlikely situation that I am awarded the grant, the period for the first renewal is only 6 months._ I was telling my good friend Xabi, excited and scared as you can see.
+July 2012, 23. Somehow I ended up applying for a PhD grant, and opposite feelings fought inside me. _I have to try at least, this might well be the last chance before leaving the academic path forever. Besides, in the unlikely situation that I am awarded the grant, the period for the first renewal is only 6 months, I can always quit afterwards._ I was telling my good friend Xabi, excited and scared as you can see.
+
+July 2015, 25. 
