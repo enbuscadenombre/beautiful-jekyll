@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Bio
+subtitle: The story of my research journey 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Is seldom the case that a good tale has a true starting point, but since the effort of analyzing the neverending flow of events that cause its origin entails a considerable task, I have to select one of them only based on my poor memory.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Let's go back to April 2007 where as a 18 years teenager, and ignoring the signals of my environment, I was convinced to study Psychology, but was finally discouraged to do so by my Phylosophy teacher whose respect for Physics had a contagious influence over me that remains until today. 
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+September 2011, 22 years. What a great summer that had been. Once I broke free from the pressure of the final exams, I had only wanted to run away from physics. A task in which I meritoriously succeed, mostly under the sun and sometimes by side the moon. _Physics had been good, but not convincingly good._ I would have proudly said by that time. However, driven by the 
