@@ -8,4 +8,8 @@ Is seldom the case that a good tale has a true starting point, but since the eff
 
 Let's go back to April 2007 where as a 18 years teenager, and ignoring the signals of my environment, I was convinced to study Psychology, but was finally discouraged to do so by my Phylosophy teacher whose respect for Physics had a contagious influence over me that remains until today. 
 
-September 2011, 22 years. What a great summer that had been. Once I broke free from the pressure of the final exams, I had only wanted to run away from physics. A task in which I meritoriously succeed, mostly under the sun and sometimes by side the moon. _Physics had been good, but not convincingly good._ I would have proudly said by that time. However, driven by the 
+September 2011, 22 years. What a great summer that had been. Once I broke free from the pressure of the final exams, I had only wanted to run away from physics. A task in which I meritoriously succeed, mostly under the sun and sometimes by side the moon. _Physics is nice, but not convincingly nice._ I would have proudly said by that time. However, driven by the necessity of making myself a more desirable working tool I decided to enroll in a postgraduate of Quantum Technology and Quantum Information.
+
+April 2012, still 22. _I could be a great Farmer, I love living outside, in contact with Nature, and I don't love almost failing Quantum Field Theory for a second time._ 
+
+July 2012, 23. 
