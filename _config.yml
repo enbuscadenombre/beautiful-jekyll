@@ -16,6 +16,7 @@ description: Postdoctoral Researcher
 navbar-links:
   Bio: "bio"
   Research:
+    - Profile: "profile"
     - Publications: "articles"
     - Media: "media"    
   External Sites:
