@@ -14,7 +14,7 @@ description: Postdoctoral Researcher
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Bio: "bio"
   Research:
     - Publications: "articles"
     - Media: "media"    
