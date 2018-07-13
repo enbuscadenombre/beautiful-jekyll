@@ -6,7 +6,7 @@ subtitle: Profile
 
 
 ## Position
-- Visiting Researcher in Queen Mary University of London (February 2018 - Today)
+- Postdoctoral Researcher in Queen Mary University of London (February 2018 - Today)
 - Postdoctoral Researcher in Basque Centre for Climate Change BC3 (February 2018 - Today)
 - Postdoctoral Researcher in QUTIS research group at University of the Basque Country (January 2017 - October 2017) 
 - PhD Student in QUTIS research group at University of the Basque Country (January 2013 - November 2016)
